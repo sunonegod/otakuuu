@@ -1,0 +1,437 @@
+#ani{
+    width: 1500px;
+    height: 900px;
+    position: relative;
+    margin: 0 auto;
+    /* border: solid 1px white; */
+    /* background-color: #ff612f; */
+}
+#ani img{
+    width: 1500px;
+    margin-top: 40px;
+}
+#ani #ani_intro h1{
+    color: white;
+    position: absolute;
+    margin-top: -600px;
+    margin-left: 490px;
+    font-size: 100px;
+}
+#ani #ani_intro h2{
+    color: white;
+    position: absolute;
+    margin-top: -490px;
+    margin-left: 640px;
+    font-size: 40px;
+}
+#ani #ani_intro h3{
+    color: white;
+    position: absolute;
+    margin-top: -430px;
+    text-align: center;
+    line-height: 200%;
+    margin-left: 470px;
+    font-size: 20px;
+}
+.more{
+    width: 100px;
+    height: 100px;
+    border: solid 1px white;
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 700px;
+    top: 63%;
+    text-align: center;
+}
+.more h6{
+    font-size: 30px;
+    margin-top: 30px;
+}
+#story{
+    width: 1500px;
+    height: 900px;
+    position: relative;
+    margin: 0 auto;
+    /* border: solid 1px black; */
+    margin-top: 20px;
+}
+
+#story #story_img{
+    width: 360px;
+    height: 500px;
+    /* border: solid 3px black; */
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 190px;
+    background-color: orange;
+}
+#story #story_img img{
+    width: 350px;
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+#story #story_headline{
+    width: 600px;
+    height: 90px;
+    /* border: solid 1px black; */
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 190px;
+}
+#story #story_headline h1{
+    color: black;
+    font-size: 60px;
+    
+}
+#story #story_ment{
+    width: 700px;
+    height: 400px;
+    /* border: solid 1px black; */
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 290px;
+}
+#story #story_ment p{
+    color: rgb(35, 35, 35);
+    line-height: 160%;
+}
+#story2{
+    width: 1500px;
+    height: 1500px;
+    position: relative;
+    margin: 0 auto;
+    /* border: solid 1px black; */
+    margin-top: 20px;
+}
+#story2 #disney{
+    width: 690px;
+    height: 120px;
+    position: absolute;
+    background-color: rgb(108, 108, 225);
+   
+    margin-top: 40px;
+    left: 26.5%;
+}
+#story2 #disney_inner{
+    width: 700px;
+    height: 120px;
+    position: absolute;
+    background-color: white;
+    border: solid 1px black;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#story2 #disney_inner h1{
+    text-align: center;
+    font-size: 70px;
+    margin-top: 20px;
+}
+#story2 #disney_inner img{
+    width: 250px;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: -80px;
+}
+#story2 #point{
+    width: 200px;
+    height: 70px;
+    position: absolute;
+    background-color: rgb(255, 253, 127);
+    margin-top: 130px;
+    left: 73%;
+}
+#story2 #point_inner{
+    width: 200px;
+    height: 70px;
+    position: absolute;
+    background-color: rgb(96, 129, 252);
+    border: solid 1px white;
+    margin-top: -10px;
+    margin-left: -10px
+}
+#story2 #point_inner h3{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 0;
+    color: white;
+}
+#poster1{
+    width: 600px;
+    height: 300px;
+    border: solid 1px black;
+    background-color:rgb(243, 219, 170);
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 280px;
+    /* border-radius: 10px; */
+}
+#poster1 img{
+    width: 200px;
+   margin-right: 20px;
+    margin-top: 10px;
+}
+#poster1 #content{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 120px;
+}
+#poster1 #content h3{
+    text-align: left;
+    margin-left: 100px;
+    margin-top: -290px;
+    font-size: 40px;
+    color: white;
+}
+#poster1 #content p{
+  
+    text-align: left;
+    margin-left: 100px;
+    margin-top: 10px;
+    font-size: 18px;
+    color: black
+}
+#poster2{
+    width: 600px;
+    height: 300px;
+    border: solid 1px black;
+    background-color: rgb(243, 219, 170);
+    position: absolute;
+    margin-left: 800px;
+    margin-top: 480px;
+    
+}
+#poster2 img{
+    width: 200px;
+    float: left;
+   margin-left: 20px;
+    margin-top: 10px;
+}
+#poster2 #content{
+   
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 240px;
+}
+#poster2 #content h3{
+    font-size: 40px;
+    color: white;
+    text-align: left;
+}
+#poster2 #content p{
+    text-align: left;
+    font-size: 18px;
+}
+#poster3{
+    width: 600px;
+    height: 300px;
+    border: solid 1px black;
+    background-color:rgb(243, 219, 170);
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 680px;
+    /* border-radius: 10px; */
+}
+#poster3 img{
+    width: 200px;
+   float: left;
+   margin-right: 20px;
+    margin-top: 10px;
+}
+#poster3 #content{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 120px;
+}
+#poster3 #content h3{
+    text-align: left;
+    margin-left: 100px;
+    font-size: 40px;
+    color: white;
+}
+#poster3 #content p{
+    text-align: left;
+    margin-left: 100px;
+    font-size: 18px;
+    color: black
+}
+#poster4{
+    width: 600px;
+    height: 300px;
+    border: solid 1px black;
+    background-color: rgb(243, 219, 170);
+    position: absolute;
+    margin-left: 800px;
+    margin-top: 880px;
+}
+#poster4 img{
+    width: 200px;
+    float: left;
+   margin-left: 20px;
+    margin-top: 10px;
+}
+#poster4 #content{
+   
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 240px;
+}
+#poster4 #content h3{
+    font-size: 40px;
+    color: white;
+    text-align: left;
+}
+#poster4 #content p{
+    text-align: left;
+    font-size: 18px;
+}
+#poster5{
+    width: 600px;
+    height: 300px;
+    border: solid 1px black;
+    background-color:rgb(243, 219, 170);
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 1080px;
+    /* border-radius: 10px; */
+}
+#poster5 img{
+    width: 200px;
+   
+   margin-right: 20px;
+    margin-top: 10px;
+}
+#poster5 #content{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 120px;
+}
+#poster5 #content h3{
+    text-align: left;
+    margin-left: 100px;
+    margin-top: -290px;
+    font-size: 40px;
+    color: white;
+}
+#poster5 #content p{
+    text-align: left;
+    margin-left: 100px;
+    margin-top: 10px;
+    font-size: 18px;
+    color: black
+}
+
+
+@media all and (max-width : 1024px){
+    #ani{
+        width: 1024px;
+        height: 900px;
+        position: relative;
+        margin: 0 auto;
+        /* border: solid 1px white; */
+        /* background-color: #ff612f; */
+    }
+
+    #story #story_img{
+        width: 260px;
+        height: 400px;
+       
+        position: absolute;
+        margin-left: 360px;
+        margin-top: 90px;
+    }
+    #story #story_img img{
+        width: 270px;
+        position: absolute;
+        margin-top: 25px;
+        margin-left: 20px;
+    }
+    #story #story_headline{
+        width: 490px;
+        height: 100px;
+        /* border: solid 1px black; */
+        position: absolute;
+        margin-left: 20px;
+        margin-top: 510px;
+    }
+    #story #story_headline h1{
+        color: black;
+        font-size: 50px;
+        
+    }
+    #story #story_ment{
+        width: 500px;
+        height: 400px;
+        /* border: solid 1px black; */
+        position: absolute;
+        margin-left: 100px;
+        margin-top: 440px;
+    }
+    #story #story_ment p{
+        color: rgb(35, 35, 35);
+        line-height: 160%;
+    }
+ 
+        
+}
+
+
+
+@media all and (max-width: 768px){
+    #ani{
+        width: 768px;
+        height: 900px;
+        position: relative;
+        margin: 0 auto;
+        /* border: solid 1px white; */
+        /* background-color: #ff612f; */
+    }
+
+    #story #story_img{
+        width: 210px;
+        height: 280px;
+       
+        position: absolute;
+        margin-left: 140px;
+        margin-top: 80px;
+    }
+    #story #story_img img{
+        width: 200px;
+        position: absolute;
+        margin-top: 15px;
+        margin-left: 20px;
+    }
+    #story #story_headline{
+        width: 390px;
+        height: 100px;
+        /* border: solid 1px black; */
+        position: absolute;
+        margin-left: 60px;
+        margin-top: 400px;
+    }
+    #story #story_headline h1{
+        color: black;
+        font-size: 40px;
+        
+    }
+    #story #story_ment{
+        width: 300px;
+        height: 400px;
+        /* border: solid 1px black; */
+        position: absolute;
+        margin-left: 100px;
+        margin-top: 460px;
+    }
+    #story #story_ment p{
+        color: rgb(35, 35, 35);
+        line-height: 160%;
+    }
+
+
+}
+@media all and (min-width: 768px){
+
+}
+@media all and (min-width: 1024px){
+    
+}

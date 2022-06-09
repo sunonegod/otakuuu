@@ -1,0 +1,266 @@
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+
+*{
+    font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+#logo{
+    width: 50px;
+    position: absolute;
+    margin-top: 10px;
+}
+.body_black{
+    background-color: black;
+}
+.body_orange{
+    background-color: #ff612f;
+}
+.body_beige{
+    background-color: #f6ebd7;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline;
+}
+a:link{
+    color: white;
+    text-decoration: none;
+}
+a:visited{
+    color: white;
+}
+a:hover{
+    color: orange;
+}
+a:active{
+    color: orange;
+}
+.a2:link{
+    color: black;
+    text-decoration: none;
+}
+.a2:visited{
+    color: black;
+}
+.a2:hover{
+    color: orange;
+}
+.a2:active{
+    color: orange;
+}
+.clear{
+    clear: both;
+}
+header{
+     height: 80px; 
+}
+header #top{
+    width: 1500px;
+    height: 60px;
+    margin: 0 auto;
+    /* background-color: #ff612f; */
+    position: relative;
+    border-bottom: solid 1px white;
+}
+header #top_ver2{
+    width: 1500px;
+    height: 60px;
+    margin: 0 auto;
+    /* background-color: #ff612f; */
+    position: relative;
+    border-bottom: solid 1px black;
+}
+header #top_ver2 ul{
+    margin-top: 20px;
+    left: 445px;
+    position: absolute;
+    
+}
+header #top_ver2 li{
+    margin: 20px;
+    color: white;
+    font-size: 21px;
+ 
+}
+header #top ul{
+    margin-top: 20px;
+    left: 445px;
+    position: absolute;
+    
+}
+header #top li{
+    margin: 20px;
+    color: white;
+    font-size: 21px;
+ 
+}
+header #side_menu{
+    width: 400px;
+    height: 30px;
+    position: relative;
+    margin: 0 auto;
+    border-bottom: solid 1px black;
+    margin-top: 20px;
+}
+header #side_menu ul{
+    text-align: center;
+}
+header #side_menu li{
+    margin: 10px;
+    font-size: 15px;
+    color: black
+}
+footer{
+    width: 1500px;
+    height: 80px;
+    border-top: solid 1px white;
+    position: relative;
+    margin: 0 auto;
+    /* margin-top: 10px; */
+}
+footer p{
+    color: white;
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+#footer_black{
+    width: 1500px;
+    height: 80px;
+    border-top: solid 1px black;
+    position: relative;
+    margin: 0 auto;
+    /* margin-top: 10px; */
+}
+#footer_black p{
+    color: black;
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+@media all and (max-width : 1024px){
+    header #top{
+        width: 950px;
+        height: 60px;
+        margin: 0 auto;
+        /* background-color: #ff612f; */
+        position: relative;
+        border-bottom: solid 1px white;
+    }
+    header #top ul{
+        margin-top: 20px;
+        left: 225px;
+        position: absolute;
+        
+    }
+    header #top li{
+        margin: 15px;
+        color: white;
+        font-size: 20px;
+     
+    }
+    header #top_ver2{
+        width: 950px;
+        height: 60px;
+        margin: 0 auto;
+        /* background-color: #ff612f; */
+        position: relative;
+        border-bottom: solid 1px black;
+    }
+    header #top_ver2 ul{
+        margin-top: 20px;
+        left: 225px;
+        position: absolute;
+        
+    }
+    header #top_ver2 li{
+        margin: 15px;
+        /* color: white; */
+        font-size: 20px;
+     
+    }
+    #footer_black{
+        width: 950px;
+        height: 80px;
+        border-top: solid 1px black;
+        position: relative;
+        margin: 0 auto;
+        margin-top: 300px;
+    }
+    footer{
+        width: 950px;
+        height: 80px;
+        border-top: solid 1px white;
+        position: relative;
+        margin: 0 auto;
+        /* margin-top: 10px; */
+    }
+        
+}
+@media all and (max-width: 768px){
+    header #top{
+        width: 450px;
+        height: 60px;
+        margin: 0 auto;
+        /* background-color: #ff612f; */
+        position: relative;
+        border-bottom: solid 1px white;
+    }
+    header #top ul{
+        margin-top: 20px;
+        left: 65px;
+        position: absolute;
+        
+    }
+    header #top li{
+        margin: 5px;
+        color: white;
+        font-size: 15px;
+     
+    }
+    header #top_ver2{
+        width: 450px;
+        height: 60px;
+        margin: 0 auto;
+        /* background-color: #ff612f; */
+        position: relative;
+        border-bottom: solid 1px black;
+    }
+    header #top_ver2 ul{
+        margin-top: 20px;
+        left: 65px;
+        position: absolute;
+        
+    }
+    header #top_ver2 li{
+        margin: 5px;
+        color: white;
+        font-size: 15px;
+    }
+    #footer_black{
+        width: 450px;
+        height: 80px;
+        border-top: solid 1px black;
+        position: relative;
+        margin: 0 auto;
+        margin-top: 500px;
+    }
+    footer{
+        width: 450px;
+        height: 80px;
+        border-top: solid 1px white;
+        position: relative;
+        margin: 0 auto;
+        /* margin-top: 10px; */
+    }
+
+}
+@media all and (min-width: 768px){
+
+}
+@media all and (min-width: 1024px){
+    
+}

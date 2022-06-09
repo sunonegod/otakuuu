@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 43" style="enable-background:new 0 0 50 43;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FF0000;stroke:#FCD910;stroke-miterlimit:10;}
+	.st1{font-family:'JCHEadA';}
+	.st2{font-size:9px;}
+</style>
+<font horiz-adv-x="1024">
+<!-- HeadLineA is a trademark of Apple Computer, Inc. -->
+<!-- Copyright: Copyright 2022 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="JCHEadA" units-per-em="1024" underline-position="0" underline-thickness="0"/>
+<missing-glyph horiz-adv-x="922" d="M64,-141l0,896l896,0l0,-896M896,-77l0,768l-768,0l0,-768z"/>
+<glyph unicode="!" horiz-adv-x="234" d="M211,687l-28,-518l-132,0l-28,518M198,-1l-162,0l0,138l162,0z"/>
+<glyph unicode="&#xBA38;" horiz-adv-x="922" d="M285,86l96,0l0,487l-96,0M104,731l465,0l0,-803l-346,0C171,-72 138,-63 125,-44C111,-26 104,12 104,69M580,302l0,167l43,0l0,277l193,0l0,-911l-193,0l0,467z"/>
+<glyph unicode="&#xC5B4;" horiz-adv-x="922" d="M251,316C251,254 257,200 269,154C284,97 304,68 330,68C354,68 374,97 391,156C408,214 416,273 416,333C416,393 410,447 397,496C382,554 362,583 338,583C311,583 289,552 272,491C258,439 251,381 251,316M335,-117C260,-117 198,-68 150,29C107,116 86,213 86,322C86,428 107,523 150,607C198,701 259,748 333,748C402,748 462,704 511,615C553,540 574,467 574,398l53,0l0,348l186,0l0,-891l-186,0l0,406l-50,0C577,184 557,107 518,28C469,-69 408,-117 335,-117z"/>
+</font>
+
+	<polygon class="st0" points="40.89,6 35.31,16.88 46.87,20.85 33.99,25.19 36.1,35.94 25.61,30.48 16.69,39.92 16.5,28.77 
+	3.26,29.79 13.51,21.35 5.92,13.17 18.89,13.8 22.67,2.59 28.6,11.81 "/>
+<text transform="matrix(0.8794 -0.4761 0.4761 0.8794 16.8336 28.1238)" class="st1 st2">어머!!</text>
+</svg>

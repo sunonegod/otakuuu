@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 43" style="enable-background:new 0 0 50 43;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFB600;}
+	.st1{fill:#0000FF;}
+	.st2{font-family:'JCHEadA';}
+	.st3{font-size:8.7055px;}
+</style>
+<font horiz-adv-x="1024">
+<!-- HeadLineA is a trademark of Apple Computer, Inc. -->
+<!-- Copyright: Copyright 2022 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="JCHEadA" units-per-em="1024" underline-position="0" underline-thickness="0"/>
+<missing-glyph horiz-adv-x="922" d="M64,-141l0,896l896,0l0,-896M896,-77l0,768l-768,0l0,-768z"/>
+<glyph unicode="!" horiz-adv-x="234" d="M211,687l-28,-518l-132,0l-28,518M198,-1l-162,0l0,138l162,0z"/>
+<glyph unicode="&#xBC1C;" horiz-adv-x="922" d="M588,748l186,0l0,-158l83,0l0,-135l-83,0l0,-141l-186,0M538,731l0,-408l-358,0C127,323 93,329 80,341C61,358 52,398 52,462l0,270l181,0l0,-58l129,0l0,57M128,283l646,0l0,-290l-459,0l0,-26l480,0l0,-132l-525,0C214,-165 178,-159 162,-148C139,-132 128,-95 128,-36l0,160l460,0l0,28l-460,0M233,459l129,0l0,68l-129,0z"/>
+<glyph unicode="&#xC81C;" horiz-adv-x="922" d="M456,-166l0,121l-44,-58C397,-96 373,-77 341,-46C306,-13 280,18 262,47C245,19 223,-9 198,-36C173,-63 148,-85 124,-100l-77,112C97,59 134,117 158,186C175,237 184,287 184,337l0,229l-90,0l0,152l330,0l0,-152l-79,0l0,-220C345,297 352,249 366,202C385,137 415,86 456,47l0,257l-79,0l0,135l79,0l0,309l165,0l0,-914M655,746l164,0l0,-911l-164,0z"/>
+</font>
+
+	<g>
+	<polygon class="st0" points="20.85,31.9 10.93,37.07 15.2,26.84 4.5,23.89 14.74,19.43 10.92,11.74 19.83,13.89 22.98,3.36 
+		27.38,13.65 42.36,6.36 34.23,17.19 44.16,21.89 33.48,26.13 38.91,35.93 28.56,31.64 24.07,38.94 	"/>
+	<path class="st1" d="M23.07,4.83l3.65,8.53l0.41,0.97l0.94-0.46l12.65-6.16L34.2,16.4l-0.74,0.98l1.11,0.52l8.34,3.94l-9.08,3.61
+		l-1.06,0.42l0.55,0.99l4.46,8.05l-8.64-3.58l-0.79-0.33l-0.45,0.73l-3.78,6.14l-2.61-5.71l-0.44-0.96l-0.93,0.49l-8.23,4.28
+		l3.52-8.43l0.44-1.05l-1.1-0.3l-8.8-2.42l8.46-3.69l0.96-0.42l-0.47-0.94l-3.1-6.26l7.4,1.79l0.92,0.22l0.27-0.91L23.07,4.83
+		 M22.9,1.9l-3.42,11.4L10,11l4.05,8.18L3,24l11.52,3.17L9.93,38.15l10.68-5.56L24,40l4.76-7.74l11.28,4.68l-5.85-10.56l11.22-4.45
+		L35,17l9-12l-16.37,7.97L22.9,1.9L22.9,1.9z"/>
+</g>
+<text transform="matrix(0.9018 -0.4321 0.4321 0.9018 16.8553 29.0277)" class="st2 st3">제발!!</text>
+</svg>
